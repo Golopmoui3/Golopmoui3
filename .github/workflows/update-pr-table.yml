@@ -1,0 +1,43 @@
+name: update-pr-table
+
+on:
+  schedule:
+    # 06:00 UTC daily — после ночного прогона CI на PR
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  # Также сразу после пуша — таблица обновляется в течение минуты
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-pr-table
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate open-PR table in README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          chmod +x update-pr-table.sh
+          ./update-pr-table.sh README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: auto-update open PR table"
+            git push
+          else
+            echo "No changes to PR table"
+          fi
