@@ -23,7 +23,6 @@
 | PR | Что чинит |
 |---|---|
 | [pymc-labs/pymc-marketing#2949](https://github.com/pymc-labs/pymc-marketing/pull/2949) | fix(clv): broadcast x in BetaGeoBetaBinom.logp so short values don't truncate the scan |
-| [Eyevinn/open-live#210](https://github.com/Eyevinn/open-live/pull/210) | fix(ci): pin @osaas/cli version in sync-fork workflow |
 | [PatchMon/PatchMon#1092](https://github.com/PatchMon/PatchMon/pull/1092) | fix(packages): force LANG=C for locale-sensitive dnf/yum output parsing |
 | [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
 | [anchore/syft#5255](https://github.com/anchore/syft/pull/5255) | fix(cyclonedx): preserve source name, version, and supplier on decode |
