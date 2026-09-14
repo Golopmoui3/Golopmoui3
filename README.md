@@ -23,8 +23,8 @@
 | PR | Что чинит |
 |---|---|
 | [pymc-labs/pymc-marketing#2949](https://github.com/pymc-labs/pymc-marketing/pull/2949) | fix(clv): broadcast x in BetaGeoBetaBinom.logp so short values don't truncate the scan |
-| [PatchMon/PatchMon#1092](https://github.com/PatchMon/PatchMon/pull/1092) | fix(packages): force LANG=C for locale-sensitive dnf/yum output parsing |
 | [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
+| [PatchMon/PatchMon#1092](https://github.com/PatchMon/PatchMon/pull/1092) | fix(packages): force LANG=C for locale-sensitive dnf/yum output parsing |
 | [anchore/syft#5255](https://github.com/anchore/syft/pull/5255) | fix(cyclonedx): preserve source name, version, and supplier on decode |
 | [anchore/syft#5254](https://github.com/anchore/syft/pull/5254) | fix(java): inherit pom licenses on the parent package when identities match |
 
