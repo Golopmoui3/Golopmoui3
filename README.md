@@ -22,8 +22,8 @@
 
 | PR | Что чинит |
 |---|---|
-| [TickTockBent/Sopholeth#248](https://github.com/TickTockBent/Sopholeth/pull/248) | fix(storage): page /v1/keys from an ordered index with incremental expiry sweeping |
 | [pymc-labs/pymc-marketing#2949](https://github.com/pymc-labs/pymc-marketing/pull/2949) | fix(clv): broadcast x in BetaGeoBetaBinom.logp so short values don't truncate the scan |
+| [TickTockBent/Sopholeth#248](https://github.com/TickTockBent/Sopholeth/pull/248) | fix(storage): page /v1/keys from an ordered index with incremental expiry sweeping |
 | [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
 | [PatchMon/PatchMon#1092](https://github.com/PatchMon/PatchMon/pull/1092) | fix(packages): force LANG=C for locale-sensitive dnf/yum output parsing |
 | [anchore/syft#5255](https://github.com/anchore/syft/pull/5255) | fix(cyclonedx): preserve source name, version, and supplier on decode |
