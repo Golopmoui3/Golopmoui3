@@ -22,9 +22,9 @@
 
 | PR | Что чинит |
 |---|---|
+| [anchore/syft#5254](https://github.com/anchore/syft/pull/5254) | fix(java): inherit pom licenses on the parent package when identities match |
 | [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
 | [anchore/syft#5255](https://github.com/anchore/syft/pull/5255) | fix(cyclonedx): preserve source name, version, and supplier on decode |
-| [anchore/syft#5254](https://github.com/anchore/syft/pull/5254) | fix(java): inherit pom licenses on the parent package when identities match |
 
 <!-- PR-TABLE:END -->
 
