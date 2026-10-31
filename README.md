@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7F7&center=true&vCenter=true&width=820&lines=%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA+%D0%B7%D0%B0+%D0%B1%D0%B0%D0%B3%D0%B0%D0%BC%D0%B8%3A+%D0%BD%D0%B0%D1%88%D1%91%D0%BB+%E2%86%92+%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D1%91%D0%BB+%E2%86%92+%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB+%E2%86%92+PR;AI+Infra+%C2%B7+Game+Modding+%26+Reverse+Engineering+%C2%B7+DevTools;Rust+%C2%B7+Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B+%E2%80%94+%D0%B1%D0%B0%D0%B3+%D0%BD%D0%B5+%D0%B8%D0%BC%D0%B5%D0%B5%D1%82+%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8;%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9+%D1%84%D0%B8%D0%BA%D1%81+%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D1%82%D1%81%D1%8F+%D0%B2+%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D0%B8+%28WSL2%2FDocker%29;%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE+%3E+%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7F7&center=true&vCenter=true&width=820&lines=%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA+%D0%B7%D0%B0+%D0%B1%D0%B0%D0%B3%D0%B0%D0%BC%D0%B8%3A+%D0%BD%D0%B0%D1%88%D1%91%D0%BB+%E2%86%92+%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D1%91%D0%BB+%E2%86%92+%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB+%E2%86%92+PR;AI+Infra+%C2%B7+Game+Modding+%26+Reverse+Engineering+%C2%B7+DevTools;Rust+%C2%B7+Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B+%E2%80%94+%D0%B1%D0%B0%D0%B3+%D0%BD%D0%B5+%D0%B8%D0%BC%D0%B5%D0%B5%D1%82+%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8;%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE+%3E+%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" alt="typing" />
 </p>
 
 ---
@@ -75,45 +75,78 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Golopmoui3/FeirRouter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Golopmoui3&repo=FeirRouter&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center"><sub>🧠 <b>FeirRouter</b> — 100+ LLM провайдеров · 20 стратегий · единый endpoint</sub></p>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Golopmoui3/FeirRouter">🧠 FeirRouter</a>
+      </h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/100%2B%20Providers-purple?style=flat-square" alt="Providers"/>
+        <img src="https://img.shields.io/github/stars/Golopmoui3/FeirRouter?style=flat-square&color=blueviolet" alt="Stars"/>
+      </p>
+      <p><b>Ultimate free LLM router</b>: 100+ AI провайдеров, 20 стратегий роутинга, multi-tier fallback, единый порт для Claude Code, Codex, OpenAI и Gemini с шифрованием ключей AES-GCM.</p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Golopmoui3/ThunderHack-Reborn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Golopmoui3&repo=ThunderHack-Reborn&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center"><sub>⚡ <b>ThunderHack Reborn</b> — Minecraft Fabric 1.21.11 PvP клиент · Java 21</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Golopmoui3/YandexMusicBetaMod">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Golopmoui3&repo=YandexMusicBetaMod&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center"><sub>🎵 <b>YandexMusicBetaMod</b> — десктоп-мод без Плюса · Discord RPC · автосборка CI</sub></p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Golopmoui3/neon-wasteland">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Golopmoui3&repo=neon-wasteland&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center"><sub>🕹️ <b>neon-wasteland</b> — 3D survival шутер на Three.js · 🌐 <a href="https://golopmoui3.github.io/neon-wasteland/">играть онлайн</a></sub></p>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Golopmoui3/ThunderHack-Reborn">⚡ ThunderHack Reborn</a>
+      </h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Fabric-1.21.11-D8A843?style=flat-square&logo=minecraft&logoColor=black" alt="Fabric"/>
+        <img src="https://img.shields.io/badge/GPL--3.0-red?style=flat-square" alt="License"/>
+        <img src="https://img.shields.io/github/stars/Golopmoui3/ThunderHack-Reborn?style=flat-square&color=orange" alt="Stars"/>
+      </p>
+      <p><b>Minecraft Fabric 1.21.11 PvP Client</b> — комьюнити-продолжение легендарного чита. Обновленный тулчейн: Java 21, Yarn 1.21.11, Loom 1.17, Gradle 9.5 и CI автосборка релизных JAR.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Golopmoui3/wsl-doctor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Golopmoui3&repo=wsl-doctor&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center"><sub>🩺 <b>wsl-doctor</b> — экспресс-диагностика и автолечение сети WSL2 одной командой</sub></p>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Golopmoui3/YandexMusicBetaMod">🎵 YandexMusicBetaMod</a>
+      </h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+        <img src="https://img.shields.io/badge/Windows%20CI-Build-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI"/>
+        <img src="https://img.shields.io/github/stars/Golopmoui3/YandexMusicBetaMod?style=flat-square&color=ff69b4" alt="Stars"/>
+      </p>
+      <p><b>Десктоп-мод Яндекс Музыки</b>: работа без подписки, скачивание FLAC/MP3, фикс мигания Discord RPC, чистая консоль и автосборка готового инсталлятора через GitHub Actions.</p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Golopmoui3/repo-sandbox">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Golopmoui3&repo=repo-sandbox&theme=tokyonight&hide_border=true" />
-      </a>
-      <p align="center"><sub>🧪 <b>repo-sandbox</b> — запуск тестов чужих репозиториев и PR в изолированном Docker</sub></p>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Golopmoui3/neon-wasteland">🕹️ neon-wasteland</a>
+      </h3>
+      <p align="left">
+        <a href="https://golopmoui3.github.io/neon-wasteland/"><img src="https://img.shields.io/badge/🎮-Играть%20онлайн-00f7f7?style=flat-square" alt="Play Online"/></a>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+        <img src="https://img.shields.io/badge/Zero--Assets-Code%20Only-green?style=flat-square" alt="Zero Assets"/>
+      </p>
+      <p><b>3D open-world survival wave shooter</b> на Three.js: процедурная генерация, боссы, магазин, квесты. Полный zero-assets подход: весь визуал генерируется чистым кодом.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Golopmoui3/wsl-doctor">🩺 wsl-doctor</a>
+      </h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
+        <img src="https://img.shields.io/badge/WSL2-Ubuntu-0078D6?style=flat-square&logo=linux&logoColor=white" alt="WSL2"/>
+        <img src="https://img.shields.io/badge/Network-Autoheal-brightgreen?style=flat-square" alt="Autoheal"/>
+      </p>
+      <p><b>Экспресс-диагностика и лечение сети WSL2</b> одной командой: автоматическая регенерация <code>resolv.conf</code>, stub DNS systemd-resolved и починка Docker daemon socket.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Golopmoui3/repo-sandbox">🧪 repo-sandbox</a>
+      </h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+        <img src="https://img.shields.io/badge/Docker-Sandbox-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Security-Disposable-red?style=flat-square" alt="Security"/>
+      </p>
+      <p><b>Изолированный запуск тестов в одноразовом контейнере Docker</b>: проверка патчей и PR против upstream HEAD без риска для основной системы.</p>
     </td>
   </tr>
 </table>
@@ -131,19 +164,17 @@
 
 ---
 
-## 📊 Статистика профиля
+## 📊 Активность и статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Golopmoui3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Golopmoui3&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Golopmoui3&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golopmoui3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Golopmoui3&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+  <img src="https://img.shields.io/badge/Публичные%20репозитории-32-1e90ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Вклад%20в%20Open%20Source-9%20PRs-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/badge/Upstream%20Merged-4%20PRs-orange?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged" />
+  <img src="https://img.shields.io/badge/Стек-Rust%20%7C%20Go%20%7C%20Python%20%7C%20TS%20%7C%20Java-blueviolet?style=for-the-badge" alt="Stack" />
 </p>
 
 ---
