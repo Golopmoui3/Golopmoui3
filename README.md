@@ -52,6 +52,7 @@
 
 | PR | Что чинит |
 |---|---|
+| [toml-rs/toml#1253](https://github.com/toml-rs/toml/pull/1253) | fix(error): correct span underline length for multi-byte UTF-8 characters |
 | [hatoo/oha#907](https://github.com/hatoo/oha/pull/907) | fix(client): handle closed report channel gracefully without panic (fixes #883) |
 | [anchore/syft#5254](https://github.com/anchore/syft/pull/5254) | fix(java): inherit pom licenses on the parent package when identities match |
 | [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
