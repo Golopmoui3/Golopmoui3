@@ -1,4 +1,4 @@
-<img src="assets/header.png" width="100%" alt="Golopmoui3 Header"/>
+<img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/header.svg" width="100%" alt="Golopmoui3 Header"/>
 
 <p align="center">
   <a href="https://github.com/Golopmoui3?tab=repositories"><img src="https://img.shields.io/badge/репозитории-32-1e90ff?style=for-the-badge&logo=github" alt="repos"></a>
@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Golopmoui3/FeirRouter"><img src="assets/icons/brain.png" width="18" height="18" valign="middle" alt="brain"/> <b>FeirRouter (100+ LLM)</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/Golopmoui3/ThunderHack-Reborn"><img src="assets/icons/lightning.png" width="18" height="18" valign="middle" alt="lightning"/> <b>ThunderHack Reborn</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/Golopmoui3/YandexMusicBetaMod"><img src="assets/icons/music.png" width="18" height="18" valign="middle" alt="music"/> <b>Yandex Music Mod</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/Golopmoui3/neon-wasteland"><img src="assets/icons/joystick.png" width="18" height="18" valign="middle" alt="joystick"/> <b>NEON WASTELAND</b></a>
+  <a href="https://github.com/Golopmoui3/FeirRouter"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/brain.png" width="18" height="18" valign="middle" alt="brain"/> <b>FeirRouter (100+ LLM)</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/Golopmoui3/ThunderHack-Reborn"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/lightning.png" width="18" height="18" valign="middle" alt="lightning"/> <b>ThunderHack Reborn</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/Golopmoui3/YandexMusicBetaMod"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/music.png" width="18" height="18" valign="middle" alt="music"/> <b>Yandex Music Mod</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/Golopmoui3/neon-wasteland"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/joystick.png" width="18" height="18" valign="middle" alt="joystick"/> <b>NEON WASTELAND</b></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="assets/icons/tools.png" width="24" height="24" valign="middle" alt="tools"/> Стек и технологии
+## <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/tools.png" width="24" height="24" valign="middle" alt="tools"/> Стек и технологии
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -44,40 +44,40 @@
 
 ---
 
-## <img src="assets/icons/sparkles.png" width="24" height="24" valign="middle" alt="sparkles"/> Open source — мои PR *(обновляется автоматически)*
+## <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/sparkles.png" width="24" height="24" valign="middle" alt="sparkles"/> Open source — мои PR *(обновляется автоматически)*
 
 <!-- PR-TABLE:START -->
 
-### <img src="assets/icons/rocket.png" width="20" height="20" valign="middle"/> На рассмотрении в Upstream (Open PRs)
+### <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="20" height="20" valign="middle"/> На рассмотрении в Upstream (Open PRs)
 
 | PR | Что чинит |
 |---|---|
-| <img src="assets/icons/rocket.png" width="15" height="15" valign="middle"/> [toml-rs/toml#1253](https://github.com/toml-rs/toml/pull/1253) | fix(error): correct span underline length for multi-byte UTF-8 characters |
-| <img src="assets/icons/rocket.png" width="15" height="15" valign="middle"/> [hatoo/oha#907](https://github.com/hatoo/oha/pull/907) | fix(client): handle closed report channel gracefully without panic (fixes #883) |
-| <img src="assets/icons/rocket.png" width="15" height="15" valign="middle"/> [anchore/syft#5254](https://github.com/anchore/syft/pull/5254) | fix(java): inherit pom licenses on the parent package when identities match |
-| <img src="assets/icons/rocket.png" width="15" height="15" valign="middle"/> [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
-| <img src="assets/icons/rocket.png" width="15" height="15" valign="middle"/> [anchore/syft#5255](https://github.com/anchore/syft/pull/5255) | fix(cyclonedx): preserve source name, version, and supplier on decode |
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="15" height="15" valign="middle"/> [toml-rs/toml#1253](https://github.com/toml-rs/toml/pull/1253) | fix(error): correct span underline length for multi-byte UTF-8 characters |
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="15" height="15" valign="middle"/> [hatoo/oha#907](https://github.com/hatoo/oha/pull/907) | fix(client): handle closed report channel gracefully without panic (fixes #883) |
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="15" height="15" valign="middle"/> [anchore/syft#5254](https://github.com/anchore/syft/pull/5254) | fix(java): inherit pom licenses on the parent package when identities match |
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="15" height="15" valign="middle"/> [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="15" height="15" valign="middle"/> [anchore/syft#5255](https://github.com/anchore/syft/pull/5255) | fix(cyclonedx): preserve source name, version, and supplier on decode |
 
-### <img src="assets/icons/check.png" width="20" height="20" valign="middle"/> Принятые в Upstream (Merged PRs)
+### <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="20" height="20" valign="middle"/> Принятые в Upstream (Merged PRs)
 
 | PR | Репозиторий / Что сделано |
 |---|---|
-| <img src="assets/icons/check.png" width="15" height="15" valign="middle"/> [pymc-labs/pymc-marketing#2949](https://github.com/pymc-labs/pymc-marketing/pull/2949) | fix(clv): broadcast x in BetaGeoBetaBinom.logp so short values don't truncate the scan |
-| <img src="assets/icons/check.png" width="15" height="15" valign="middle"/> [PatchMon/PatchMon#1092](https://github.com/PatchMon/PatchMon/pull/1092) | fix(packages): force LANG=C for locale-sensitive dnf/yum output parsing |
-| <img src="assets/icons/check.png" width="15" height="15" valign="middle"/> [TickTockBent/Sopholeth#248](https://github.com/TickTockBent/Sopholeth/pull/248) | fix(storage): page /v1/keys from an ordered index with incremental expiry sweeping |
-| <img src="assets/icons/check.png" width="15" height="15" valign="middle"/> [Eyevinn/open-live#210](https://github.com/Eyevinn/open-live/pull/210) | fix(ci): pin @osaas/cli version in sync-fork workflow |
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="15" height="15" valign="middle"/> [pymc-labs/pymc-marketing#2949](https://github.com/pymc-labs/pymc-marketing/pull/2949) | fix(clv): broadcast x in BetaGeoBetaBinom.logp so short values don't truncate the scan |
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="15" height="15" valign="middle"/> [PatchMon/PatchMon#1092](https://github.com/PatchMon/PatchMon/pull/1092) | fix(packages): force LANG=C for locale-sensitive dnf/yum output parsing |
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="15" height="15" valign="middle"/> [TickTockBent/Sopholeth#248](https://github.com/TickTockBent/Sopholeth/pull/248) | fix(storage): page /v1/keys from an ordered index with incremental expiry sweeping |
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="15" height="15" valign="middle"/> [Eyevinn/open-live#210](https://github.com/Eyevinn/open-live/pull/210) | fix(ci): pin @osaas/cli version in sync-fork workflow |
 
 <!-- PR-TABLE:END -->
 
 ---
 
-## <img src="assets/icons/package.png" width="24" height="24" valign="middle" alt="package"/> Флагманские проекты
+## <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/package.png" width="24" height="24" valign="middle" alt="package"/> Флагманские проекты
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/FeirRouter"><img src="assets/icons/brain.png" width="22" height="22" valign="middle" alt="brain"/> FeirRouter</a>
+        <a href="https://github.com/Golopmoui3/FeirRouter"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/brain.png" width="22" height="22" valign="middle" alt="brain"/> FeirRouter</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -89,7 +89,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/ThunderHack-Reborn"><img src="assets/icons/lightning.png" width="22" height="22" valign="middle" alt="lightning"/> ThunderHack Reborn</a>
+        <a href="https://github.com/Golopmoui3/ThunderHack-Reborn"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/lightning.png" width="22" height="22" valign="middle" alt="lightning"/> ThunderHack Reborn</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -103,7 +103,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/YandexMusicBetaMod"><img src="assets/icons/music.png" width="22" height="22" valign="middle" alt="music"/> YandexMusicBetaMod</a>
+        <a href="https://github.com/Golopmoui3/YandexMusicBetaMod"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/music.png" width="22" height="22" valign="middle" alt="music"/> YandexMusicBetaMod</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -115,7 +115,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/neon-wasteland"><img src="assets/icons/joystick.png" width="22" height="22" valign="middle" alt="joystick"/> neon-wasteland</a>
+        <a href="https://github.com/Golopmoui3/neon-wasteland"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/joystick.png" width="22" height="22" valign="middle" alt="joystick"/> neon-wasteland</a>
       </h3>
       <p align="left">
         <a href="https://golopmoui3.github.io/neon-wasteland/"><img src="https://img.shields.io/badge/Играть%20онлайн-00f7f7?style=flat-square&logo=googlechrome&logoColor=black" alt="Play Online"/></a>
@@ -128,7 +128,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/wsl-doctor"><img src="assets/icons/stethoscope.png" width="22" height="22" valign="middle" alt="stethoscope"/> wsl-doctor</a>
+        <a href="https://github.com/Golopmoui3/wsl-doctor"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/stethoscope.png" width="22" height="22" valign="middle" alt="stethoscope"/> wsl-doctor</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
@@ -139,7 +139,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/repo-sandbox"><img src="assets/icons/flask.png" width="22" height="22" valign="middle" alt="flask"/> repo-sandbox</a>
+        <a href="https://github.com/Golopmoui3/repo-sandbox"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/flask.png" width="22" height="22" valign="middle" alt="flask"/> repo-sandbox</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -151,20 +151,20 @@
   </tr>
 </table>
 
-### <img src="assets/icons/gear.png" width="20" height="20" valign="middle" alt="gear"/> Изоляция & WSL утилиты
-- <img src="assets/icons/gear.png" width="16" height="16" valign="middle" alt="item"/> [windows-sandbox-recipes](https://github.com/Golopmoui3/windows-sandbox-recipes) — готовые одноразовые <code>.wsb</code> конфигурации Windows Sandbox для запуска сомнительного кода и изолированного браузера.
-- <img src="assets/icons/gear.png" width="16" height="16" valign="middle" alt="item"/> [wsl-run](https://github.com/Golopmoui3/wsl-run) — прозрачный запуск bash-скриптов внутри WSL из Windows Git Bash (чистка CRLF, трансляция путей <code>/mnt/...</code>).
-- <img src="assets/icons/gear.png" width="16" height="16" valign="middle" alt="item"/> [gh-device-login](https://github.com/Golopmoui3/gh-device-login) — авторизация GitHub CLI на headless-машинах через OAuth Device Flow (чистый Bash + curl).
+### <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/gear.png" width="20" height="20" valign="middle" alt="gear"/> Изоляция & WSL утилиты
+- <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/gear.png" width="16" height="16" valign="middle" alt="item"/> [windows-sandbox-recipes](https://github.com/Golopmoui3/windows-sandbox-recipes) — готовые одноразовые <code>.wsb</code> конфигурации Windows Sandbox для запуска сомнительного кода и изолированного браузера.
+- <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/gear.png" width="16" height="16" valign="middle" alt="item"/> [wsl-run](https://github.com/Golopmoui3/wsl-run) — прозрачный запуск bash-скриптов внутри WSL из Windows Git Bash (чистка CRLF, трансляция путей <code>/mnt/...</code>).
+- <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/gear.png" width="16" height="16" valign="middle" alt="item"/> [gh-device-login](https://github.com/Golopmoui3/gh-device-login) — авторизация GitHub CLI на headless-машинах через OAuth Device Flow (чистый Bash + curl).
 
-### <img src="assets/icons/fire.png" width="20" height="20" valign="middle" alt="fire"/> Git Power-Tools
-- <img src="assets/icons/fire.png" width="16" height="16" valign="middle" alt="item"/> [git-undo](https://github.com/Golopmoui3/git-undo) — безопасный откат типовых ошибок git (<code>--commit</code>, <code>--unstage</code>, <code>--discard</code>; <code>dry-run</code> по умолчанию, исполнение с <code>--apply</code>).
-- <img src="assets/icons/fire.png" width="16" height="16" valign="middle" alt="item"/> [git-bigfiles](https://github.com/Golopmoui3/git-bigfiles) — быстрый поиск самых больших файлов в рабочем дереве и блобах всей истории git-репозитория.
-- <img src="assets/icons/fire.png" width="16" height="16" valign="middle" alt="item"/> [branch-broom](https://github.com/Golopmoui3/branch-broom) — интеллектуальная уборка локальных веток git (<code>--merged</code>, <code>--gone</code>, <code>--stale-days</code>).
-- <img src="assets/icons/fire.png" width="16" height="16" valign="middle" alt="item"/> [git-sync-fork](https://github.com/Golopmoui3/git-sync-fork) — синхронизация форка с upstream в одну команду (<code>fetch --prune</code>, <code>rebase/merge</code>, безопасный <code>push</code>).
+### <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/fire.png" width="20" height="20" valign="middle" alt="fire"/> Git Power-Tools
+- <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/fire.png" width="16" height="16" valign="middle" alt="item"/> [git-undo](https://github.com/Golopmoui3/git-undo) — безопасный откат типовых ошибок git (<code>--commit</code>, <code>--unstage</code>, <code>--discard</code>; <code>dry-run</code> по умолчанию, исполнение с <code>--apply</code>).
+- <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/fire.png" width="16" height="16" valign="middle" alt="item"/> [git-bigfiles](https://github.com/Golopmoui3/git-bigfiles) — быстрый поиск самых больших файлов в рабочем дереве и блобах всей истории git-репозитория.
+- <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/fire.png" width="16" height="16" valign="middle" alt="item"/> [branch-broom](https://github.com/Golopmoui3/branch-broom) — интеллектуальная уборка локальных веток git (<code>--merged</code>, <code>--gone</code>, <code>--stale-days</code>).
+- <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/fire.png" width="16" height="16" valign="middle" alt="item"/> [git-sync-fork](https://github.com/Golopmoui3/git-sync-fork) — синхронизация форка с upstream в одну команду (<code>fetch --prune</code>, <code>rebase/merge</code>, безопасный <code>push</code>).
 
 ---
 
-## <img src="assets/icons/chart.png" width="24" height="24" valign="middle" alt="chart"/> Активность и статистика
+## <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/chart.png" width="24" height="24" valign="middle" alt="chart"/> Активность и статистика
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Golopmoui3&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
@@ -179,7 +179,7 @@
 
 ---
 
-## <img src="assets/icons/snake.png" width="24" height="24" valign="middle" alt="snake"/> Змейка контрибуций
+## <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/snake.png" width="24" height="24" valign="middle" alt="snake"/> Змейка контрибуций
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/output/snake.svg" alt="snake" width="100%"/>
@@ -188,5 +188,5 @@
 ---
 
 <p align="center">
-  <img src="assets/footer.png" width="100%" alt="Golopmoui3 Footer"/>
+  <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/footer.svg" width="100%" alt="Golopmoui3 Footer"/>
 </p>

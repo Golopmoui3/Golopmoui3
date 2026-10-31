@@ -5,6 +5,7 @@ set -euo pipefail
 
 OWNER="Golopmoui3"
 README="${1:-README.md}"
+ICON_BASE="https://raw.githubusercontent.com/${OWNER}/${OWNER}/main/assets/icons"
 
 # Открытые PR (в ревью)
 open_prs=$(gh api "search/issues?q=type:pr+author:${OWNER}+is:open&per_page=50&sort=updated&order=desc" \
@@ -23,26 +24,26 @@ merged_prs=$(gh api "search/issues?q=type:pr+author:${OWNER}+is:merged+-user:${O
 table=""
 
 # Секция открытых PR
-table+='### <img src="assets/icons/rocket.png" width="20" height="20" valign="middle"/> На рассмотрении в Upstream (Open PRs)'$'\n\n'
+table+="### <img src=\"${ICON_BASE}/rocket.png\" width=\"20\" height=\"20\" valign=\"middle\"/> На рассмотрении в Upstream (Open PRs)"$'\n\n'
 if [ -n "$open_prs" ]; then
   table+="| PR | Что чинит |"$'\n'"|---|---|"
   while IFS=$'\t' read -r number repo_url title html_url; do
     repo="${repo_url#https://api.github.com/repos/}"
     esc_title=$(printf '%s' "$title" | sed 's/|/\\|/g')
-    table+=$'\n'"| <img src=\"assets/icons/rocket.png\" width=\"15\" height=\"15\" valign=\"middle\"/> [${repo}#${number}](${html_url}) | ${esc_title} |"
+    table+=$'\n'"| <img src=\"${ICON_BASE}/rocket.png\" width=\"15\" height=\"15\" valign=\"middle\"/> [${repo}#${number}](${html_url}) | ${esc_title} |"
   done <<< "$open_prs"
 else
   table+="_Открытых PR сейчас нет — всё смёржено или в разработке._"
 fi
 
 # Секция смёрженных PR
-table+=$'\n\n''### <img src="assets/icons/check.png" width="20" height="20" valign="middle"/> Принятые в Upstream (Merged PRs)'$'\n\n'
+table+=$'\n\n'"### <img src=\"${ICON_BASE}/check.png\" width=\"20\" height=\"20\" valign=\"middle\"/> Принятые в Upstream (Merged PRs)"$'\n\n'
 if [ -n "$merged_prs" ]; then
   table+="| PR | Репозиторий / Что сделано |"$'\n'"|---|---|"
   while IFS=$'\t' read -r number repo_url title html_url; do
     repo="${repo_url#https://api.github.com/repos/}"
     esc_title=$(printf '%s' "$title" | sed 's/|/\\|/g')
-    table+=$'\n'"| <img src=\"assets/icons/check.png\" width=\"15\" height=\"15\" valign=\"middle\"/> [${repo}#${number}](${html_url}) | ${esc_title} |"
+    table+=$'\n'"| <img src=\"${ICON_BASE}/check.png\" width=\"15\" height=\"15\" valign=\"middle\"/> [${repo}#${number}](${html_url}) | ${esc_title} |"
   done <<< "$merged_prs"
 else
   table+="_Пока нет смёрженных PR._"
