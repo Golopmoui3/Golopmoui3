@@ -1,58 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="200" viewBox="0 0 854 200">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="210" viewBox="0 0 854 210">
     <style>
         .title {
             font-size: 64px;
             font-weight: 800;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            fill: #ffffff;
             text-anchor: middle;
             dominant-baseline: middle;
+            letter-spacing: 2px;
         }
         .desc {
-            font-size: 18px;
+            font-size: 17px;
             font-weight: 500;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             fill: #a5d6ff;
             text-anchor: middle;
             dominant-baseline: middle;
-            letter-spacing: 1.5px;
+            letter-spacing: 2px;
         }
     </style>
     <defs>
         <linearGradient id="gradientWave" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#00f7f7">
-                <animate attributeName="stop-color" values="#00f7f7;#7952e4;#ff007f;#00ced1;#00f7f7" dur="8s" repeatCount="indefinite" />
+                <animate attributeName="stop-color" values="#00f7f7;#7952e4;#ff007f;#00ced1;#00f7f7" dur="7s" repeatCount="indefinite" />
             </stop>
             <stop offset="50%" stop-color="#7952e4">
-                <animate attributeName="stop-color" values="#7952e4;#ff007f;#00ced1;#00f7f7;#7952e4" dur="8s" repeatCount="indefinite" />
+                <animate attributeName="stop-color" values="#7952e4;#ff007f;#00ced1;#00f7f7;#7952e4" dur="7s" repeatCount="indefinite" />
             </stop>
             <stop offset="100%" stop-color="#ff007f">
-                <animate attributeName="stop-color" values="#ff007f;#00ced1;#00f7f7;#7952e4;#ff007f" dur="8s" repeatCount="indefinite" />
+                <animate attributeName="stop-color" values="#ff007f;#00ced1;#00f7f7;#7952e4;#ff007f" dur="7s" repeatCount="indefinite" />
             </stop>
         </linearGradient>
+
+        <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#ffffff">
+                <animate attributeName="stop-color" values="#ffffff;#00f7f7;#f472b6;#ffffff" dur="7s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="50%" stop-color="#00f7f7">
+                <animate attributeName="stop-color" values="#00f7f7;#f472b6;#ffffff;#00f7f7" dur="7s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#f472b6">
+                <animate attributeName="stop-color" values="#f472b6;#ffffff;#00f7f7;#f472b6" dur="7s" repeatCount="indefinite" />
+            </stop>
+        </linearGradient>
+
+        <clipPath id="roundedClip">
+            <rect width="854" height="210" rx="18" ry="18" />
+        </clipPath>
     </defs>
 
-    <rect width="854" height="200" fill="#0d1117" />
+    <g clip-path="url(#roundedClip)">
+        <rect width="854" height="210" fill="#0d1117" />
 
-    <g>
         <path fill="url(#gradientWave)" opacity="0.45">
-            <animate attributeName="d" dur="10s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
+            <animate attributeName="d" dur="9s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
                 calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s"
-                values="M0 0 L 0 120 Q 213.5 160 427 130 T 854 155 L 854 0 Z;
-                        M0 0 L 0 145 Q 213.5 160 427 140 T 854 130 L 854 0 Z;
-                        M0 0 L 0 165 Q 213.5 135 427 165 T 854 130 L 854 0 Z;
-                        M0 0 L 0 120 Q 213.5 160 427 130 T 854 155 L 854 0 Z" />
+                values="M0 0 L 0 130 Q 213.5 170 427 140 T 854 165 L 854 0 Z;
+                        M0 0 L 0 155 Q 213.5 170 427 150 T 854 140 L 854 0 Z;
+                        M0 0 L 0 175 Q 213.5 145 427 175 T 854 140 L 854 0 Z;
+                        M0 0 L 0 130 Q 213.5 170 427 140 T 854 165 L 854 0 Z" />
         </path>
         <path fill="url(#gradientWave)" opacity="0.45">
-            <animate attributeName="d" dur="10s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
-                calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-5s"
-                values="M0 0 L 0 135 Q 213.5 180 427 150 T 854 160 L 854 0 Z;
-                        M0 0 L 0 150 Q 213.5 120 427 120 T 854 140 L 854 0 Z;
-                        M0 0 L 0 145 Q 213.5 125 427 150 T 854 165 L 854 0 Z;
-                        M0 0 L 0 135 Q 213.5 180 427 150 T 854 160 L 854 0 Z" />
+            <animate attributeName="d" dur="9s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1"
+                calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-4.5s"
+                values="M0 0 L 0 145 Q 213.5 190 427 160 T 854 170 L 854 0 Z;
+                        M0 0 L 0 160 Q 213.5 130 427 130 T 854 150 L 854 0 Z;
+                        M0 0 L 0 155 Q 213.5 135 427 160 T 854 175 L 854 0 Z;
+                        M0 0 L 0 145 Q 213.5 190 427 160 T 854 170 L 854 0 Z" />
         </path>
-    </g>
 
-    <text x="50%" y="42%" class="title">Golopmoui3</text>
-    <text x="50%" y="68%" class="desc">bug hunter  ·  AI infra  ·  mods &amp; games  ·  open source</text>
+        <rect width="854" height="210" rx="18" ry="18" fill="none" stroke="rgba(0, 247, 247, 0.25)" stroke-width="2" />
+        <text x="50%" y="44%" class="title" fill="url(#titleGrad)">Golopmoui3</text>
+        <text x="50%" y="72%" class="desc">bug hunter  ·  AI infra  ·  game modding  ·  open source</text>
+    </g>
 </svg>
