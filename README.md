@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/header.svg" width="100%" alt="Golopmoui3 Header"/>
 
 <p align="center">
-  <a href="https://github.com/Golopmoui3?tab=repositories"><img src="https://img.shields.io/badge/репозитории-32-1e90ff?style=for-the-badge&logo=github" alt="repos"></a>
-  <img src="https://img.shields.io/badge/фокус-охота%20за%20багами-ff69b4?style=for-the-badge&logo=target" alt="focus">
-  <img src="https://img.shields.io/badge/изоляция-WSL2%20%2B%20Docker-00CED1?style=for-the-badge&logo=docker" alt="isolation">
-  <img src="https://img.shields.io/badge/статус-active%20builder-brightgreen?style=for-the-badge" alt="status">
+  <a href="https://github.com/Golopmoui3?tab=repositories"><img src="https://img.shields.io/static/v1?label=%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8&message=32&color=1e90ff&style=for-the-badge&logo=github" alt="repos"></a>
+  <img src="https://img.shields.io/static/v1?label=%D0%A4%D0%BE%D0%BA%D1%83%D1%81&message=%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20%D0%B7%D0%B0%20%D0%B1%D0%B0%D0%B3%D0%B0%D0%BC%D0%B8&color=ff69b4&style=for-the-badge&logo=target" alt="focus">
+  <img src="https://img.shields.io/static/v1?label=%D0%98%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F&message=WSL2%20%2B%20Docker&color=00CED1&style=for-the-badge&logo=docker" alt="isolation">
+  <img src="https://img.shields.io/static/v1?label=%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81&message=Active%20Builder&color=brightgreen&style=for-the-badge" alt="status">
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@
         <a href="https://github.com/Golopmoui3/neon-wasteland"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/joystick.png" width="22" height="22" valign="middle" alt="joystick"/> neon-wasteland</a>
       </h3>
       <p align="left">
-        <a href="https://golopmoui3.github.io/neon-wasteland/"><img src="https://img.shields.io/badge/Играть%20онлайн-00f7f7?style=flat-square&logo=googlechrome&logoColor=black" alt="Play Online"/></a>
+        <a href="https://golopmoui3.github.io/neon-wasteland/"><img src="https://img.shields.io/static/v1?label=&message=%D0%98%D0%B3%D1%80%D0%B0%D1%82%D1%8C%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&color=00f7f7&style=flat-square&logo=googlechrome&logoColor=black" alt="Play Online"/></a>
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
         <img src="https://img.shields.io/badge/Zero--Assets-Code%20Only-green?style=flat-square" alt="Zero Assets"/>
       </p>
@@ -171,10 +171,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Публичные%20репозитории-32-1e90ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/badge/Вклад%20в%20Open%20Source-9%20PRs-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/static/v1?label=%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8&message=32&color=1e90ff&style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/static/v1?label=%D0%92%D0%BA%D0%BB%D0%B0%D0%B4%20%D0%B2%20Open%20Source&message=9%20PRs&color=brightgreen&style=for-the-badge&logo=git&logoColor=white" alt="PRs" />
   <img src="https://img.shields.io/badge/Upstream%20Merged-4%20PRs-orange?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged" />
-  <img src="https://img.shields.io/badge/Стек-Rust%20%7C%20Go%20%7C%20Python%20%7C%20TS%20%7C%20Java-blueviolet?style=for-the-badge" alt="Stack" />
+  <img src="https://img.shields.io/static/v1?label=%D0%A1%D1%82%D0%B5%D0%BA&message=Rust%20%7C%20Go%20%7C%20Python%20%7C%20TS%20%7C%20Java&color=blueviolet&style=for-the-badge" alt="Stack" />
 </p>
 
 ---
