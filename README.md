@@ -69,6 +69,15 @@
 
 <!-- PR-TABLE:END -->
 
+<br/>
+
+### <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/fire.png" width="20" height="20" valign="middle" alt="case"/> Разбор кейса: баг UTF-8 спанов в [toml-rs#1253](https://github.com/toml-rs/toml/pull/1253)
+
+> <img src="https://img.shields.io/badge/Rust-toml--rs-black?style=flat-square&logo=rust"/> <img src="https://img.shields.io/badge/Status-Technical%20Fix%20Ready-blueviolet?style=flat-square"/>  
+> **Проблема ([#1120](https://github.com/toml-rs/toml/issues/1120))**: при выводе синтаксических ошибок в TOML на многобайтовых символах UTF-8 (кириллица, умляуты <code>åäö</code>, спецсимволы) длина подчёркивания ошибки (<code>^^^^</code>) считалась в сырых байтах, из-за чего каретки сдвигались и перекрывали соседний код.  
+> **Решение**: пересчёт спана в Unicode-скалярах через <code>.chars().count()</code>, сатурация границы строки (<code>saturating_sub</code>) в <code>crates/toml/src/de/error.rs</code> и <code>crates/toml_edit/src/error.rs</code> + покрытие регрессионными тестами.  
+> **Контекст**: исправление в ключевом парсере экосистемы Rust. PR был закрыт мейнтейнером @epage по сугубо формальной причине (удаление из шаблона дисклеймера <code>LLM involvement</code>), при этом само техническое решение полностью устраняет проблему.
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/package.png" width="24" height="24" valign="middle" alt="package"/> Флагманские проекты
