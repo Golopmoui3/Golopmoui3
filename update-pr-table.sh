@@ -29,7 +29,7 @@ if [ -n "$open_prs" ]; then
   while IFS=$'\t' read -r number repo_url title html_url; do
     repo="${repo_url#https://api.github.com/repos/}"
     esc_title=$(printf '%s' "$title" | sed 's/|/\\|/g')
-    table+=$'\n'"| [${repo}#${number}](${html_url}) | ${esc_title} |"
+    table+=$'\n'"| <img src=\"assets/icons/rocket.png\" width=\"15\" height=\"15\" valign=\"middle\"/> [${repo}#${number}](${html_url}) | ${esc_title} |"
   done <<< "$open_prs"
 else
   table+="_Открытых PR сейчас нет — всё смёржено или в разработке._"
@@ -42,7 +42,7 @@ if [ -n "$merged_prs" ]; then
   while IFS=$'\t' read -r number repo_url title html_url; do
     repo="${repo_url#https://api.github.com/repos/}"
     esc_title=$(printf '%s' "$title" | sed 's/|/\\|/g')
-    table+=$'\n'"| [${repo}#${number}](${html_url}) | ${esc_title} |"
+    table+=$'\n'"| <img src=\"assets/icons/check.png\" width=\"15\" height=\"15\" valign=\"middle\"/> [${repo}#${number}](${html_url}) | ${esc_title} |"
   done <<< "$merged_prs"
 else
   table+="_Пока нет смёрженных PR._"
