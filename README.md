@@ -8,19 +8,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Golopmoui3/FeirRouter"><img src="https://img.shields.io/badge/🤖-FeirRouter%20(100%2B%20LLM)-7952e4?style=for-the-badge&logo=fastapi" alt="feirrouter"></a>
-  <a href="https://github.com/Golopmoui3/ThunderHack-Reborn"><img src="https://img.shields.io/badge/⚡-ThunderHack%20Reborn-ff9900?style=for-the-badge" alt="thunderhack"></a>
-  <a href="https://github.com/Golopmoui3/YandexMusicBetaMod"><img src="https://img.shields.io/badge/🎵-Yandex%20Music%20Mod-fc3f1d?style=for-the-badge" alt="ymmod"></a>
-  <a href="https://github.com/Golopmoui3/neon-wasteland"><img src="https://img.shields.io/badge/🎮-играть%20в%20NEON%20WASTELAND-00f7f7?style=for-the-badge" alt="play"></a>
+  <a href="https://github.com/Golopmoui3/FeirRouter"><img src="https://img.shields.io/badge/FeirRouter_(100+_LLM)-7952e4?style=for-the-badge&logo=fastapi&logoColor=white" alt="feirrouter"></a>
+  <a href="https://github.com/Golopmoui3/ThunderHack-Reborn"><img src="https://img.shields.io/badge/ThunderHack_Reborn-ff9900?style=for-the-badge&logo=openjdk&logoColor=white" alt="thunderhack"></a>
+  <a href="https://github.com/Golopmoui3/YandexMusicBetaMod"><img src="https://img.shields.io/badge/Yandex_Music_Mod-fc3f1d?style=for-the-badge&logo=electron&logoColor=white" alt="ymmod"></a>
+  <a href="https://github.com/Golopmoui3/neon-wasteland"><img src="https://img.shields.io/badge/NEON_WASTELAND-00f7f7?style=for-the-badge&logo=three.js&logoColor=black" alt="play"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7F7&center=true&vCenter=true&width=820&lines=%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA+%D0%B7%D0%B0+%D0%B1%D0%B0%D0%B3%D0%B0%D0%BC%D0%B8%3A+%D0%BD%D0%B0%D1%88%D1%91%D0%BB+%E2%86%92+%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D1%91%D0%BB+%E2%86%92+%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB+%E2%86%92+PR;AI+Infra+%C2%B7+Game+Modding+%26+Reverse+Engineering+%C2%B7+DevTools;Rust+%C2%B7+Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B+%E2%80%94+%D0%B1%D0%B0%D0%B3+%D0%BD%D0%B5+%D0%B8%D0%BC%D0%B5%D0%B5%D1%82+%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8;%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE+%3E+%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F7F7&center=true&vCenter=true&width=820&lines=%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA+%D0%B7%D0%B0+%D0%B1%D0%B0%D0%B3%D0%B0%D0%BC%D0%B8%3A+%D0%BD%D0%B0%D1%88%D1%91%D0%BB+%E2%86%92+%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D1%91%D0%BB+%E2%86%92+%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB+%E2%86%92+PR;AI+Infra+%C2%B7+Game+Modding+%26+Reverse+Engineering+%C2%B7+DevTools;Rust+%C2%B7+Go+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B+%E2%80%94+%D0%B1%D0%B0%D0%B3+%D0%BD%D0%B5+%D0%B8%D0%BC%D0%B5%D0%B5%D1%82+%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8;%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9+%D1%84%D0%B8%D0%BA%D1%81+%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D1%82%D1%81%D1%8F+%D0%B2+%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D0%B8+%28WSL2%2FDocker%29;%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE+%3E+%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" alt="typing" />
 </p>
 
 ---
 
-## 🛠️ Стек и технологии
+## <img src="assets/icons/tools.png" width="24" height="24" valign="middle"/> Стек и технологии
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -44,11 +44,11 @@
 
 ---
 
-## 🔀 Open source — мои PR *(обновляется автоматически)*
+## <img src="assets/icons/sparkles.png" width="24" height="24" valign="middle"/> Open source — мои PR *(обновляется автоматически)*
 
 <!-- PR-TABLE:START -->
 
-### 🚀 На рассмотрении в Upstream (Open PRs)
+### <img src="assets/icons/rocket.png" width="20" height="20" valign="middle"/> На рассмотрении в Upstream (Open PRs)
 
 | PR | Что чинит |
 |---|---|
@@ -58,7 +58,7 @@
 | [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
 | [anchore/syft#5255](https://github.com/anchore/syft/pull/5255) | fix(cyclonedx): preserve source name, version, and supplier on decode |
 
-### ✅ Принятые в Upstream (Merged PRs)
+### <img src="assets/icons/check.png" width="20" height="20" valign="middle"/> Принятые в Upstream (Merged PRs)
 
 | PR | Репозиторий / Что сделано |
 |---|---|
@@ -71,13 +71,13 @@
 
 ---
 
-## 📦 Флагманские проекты
+## <img src="assets/icons/package.png" width="24" height="24" valign="middle"/> Флагманские проекты
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/FeirRouter">🧠 FeirRouter</a>
+        <a href="https://github.com/Golopmoui3/FeirRouter"><img src="assets/icons/brain.png" width="22" height="22" valign="middle"/> FeirRouter</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -89,7 +89,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/ThunderHack-Reborn">⚡ ThunderHack Reborn</a>
+        <a href="https://github.com/Golopmoui3/ThunderHack-Reborn"><img src="assets/icons/lightning.png" width="22" height="22" valign="middle"/> ThunderHack Reborn</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -103,7 +103,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/YandexMusicBetaMod">🎵 YandexMusicBetaMod</a>
+        <a href="https://github.com/Golopmoui3/YandexMusicBetaMod"><img src="assets/icons/music.png" width="22" height="22" valign="middle"/> YandexMusicBetaMod</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -115,10 +115,10 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/neon-wasteland">🕹️ neon-wasteland</a>
+        <a href="https://github.com/Golopmoui3/neon-wasteland"><img src="assets/icons/joystick.png" width="22" height="22" valign="middle"/> neon-wasteland</a>
       </h3>
       <p align="left">
-        <a href="https://golopmoui3.github.io/neon-wasteland/"><img src="https://img.shields.io/badge/🎮-Играть%20онлайн-00f7f7?style=flat-square" alt="Play Online"/></a>
+        <a href="https://golopmoui3.github.io/neon-wasteland/"><img src="https://img.shields.io/badge/Играть%20онлайн-00f7f7?style=flat-square&logo=googlechrome&logoColor=black" alt="Play Online"/></a>
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
         <img src="https://img.shields.io/badge/Zero--Assets-Code%20Only-green?style=flat-square" alt="Zero Assets"/>
       </p>
@@ -128,7 +128,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/wsl-doctor">🩺 wsl-doctor</a>
+        <a href="https://github.com/Golopmoui3/wsl-doctor"><img src="assets/icons/stethoscope.png" width="22" height="22" valign="middle"/> wsl-doctor</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
@@ -139,7 +139,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/Golopmoui3/repo-sandbox">🧪 repo-sandbox</a>
+        <a href="https://github.com/Golopmoui3/repo-sandbox"><img src="assets/icons/flask.png" width="22" height="22" valign="middle"/> repo-sandbox</a>
       </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -151,12 +151,12 @@
   </tr>
 </table>
 
-### 🛠️ Изоляция & WSL утилиты
+### <img src="assets/icons/gear.png" width="20" height="20" valign="middle"/> Изоляция & WSL утилиты
 - [windows-sandbox-recipes](https://github.com/Golopmoui3/windows-sandbox-recipes) — готовые одноразовые `.wsb` конфигурации Windows Sandbox для запуска сомнительного кода и тестирования.
 - [wsl-run](https://github.com/Golopmoui3/wsl-run) — прозрачный запуск bash-скриптов внутри WSL из Windows Git Bash (чистка CRLF, трансляция путей `/mnt/...`).
 - [gh-device-login](https://github.com/Golopmoui3/gh-device-login) — авторизация GitHub CLI на headless-машинах через OAuth Device Flow (чистый Bash + curl).
 
-### ⚡ Git Power-Tools
+### <img src="assets/icons/fire.png" width="20" height="20" valign="middle"/> Git Power-Tools
 - [git-undo](https://github.com/Golopmoui3/git-undo) — безопасный откат типовых ошибок git (`--commit`, `--unstage`, `--discard`; `dry-run` по умолчанию, исполнение с `--apply`).
 - [git-bigfiles](https://github.com/Golopmoui3/git-bigfiles) — быстрый поиск самых больших файлов в рабочем дереве и блобах всей истории git-репозитория.
 - [branch-broom](https://github.com/Golopmoui3/branch-broom) — интеллектуальная уборка локальных веток git (`--merged`, `--gone`, `--stale-days`).
@@ -164,7 +164,7 @@
 
 ---
 
-## 📊 Активность и статистика
+## <img src="assets/icons/chart.png" width="24" height="24" valign="middle"/> Активность и статистика
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Golopmoui3&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
@@ -179,7 +179,7 @@
 
 ---
 
-## 🐍 Змейка контрибуций
+## <img src="assets/icons/snake.png" width="24" height="24" valign="middle"/> Змейка контрибуций
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/output/snake.svg" alt="snake" width="100%"/>

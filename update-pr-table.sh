@@ -23,7 +23,7 @@ merged_prs=$(gh api "search/issues?q=type:pr+author:${OWNER}+is:merged+-user:${O
 table=""
 
 # Секция открытых PR
-table+="### 🚀 На рассмотрении в Upstream (Open PRs)"$'\n\n'
+table+='### <img src="assets/icons/rocket.png" width="20" height="20" valign="middle"/> На рассмотрении в Upstream (Open PRs)'$'\n\n'
 if [ -n "$open_prs" ]; then
   table+="| PR | Что чинит |"$'\n'"|---|---|"
   while IFS=$'\t' read -r number repo_url title html_url; do
@@ -36,7 +36,7 @@ else
 fi
 
 # Секция смёрженных PR
-table+=$'\n\n'"### ✅ Принятые в Upstream (Merged PRs)"$'\n\n'
+table+=$'\n\n''### <img src="assets/icons/check.png" width="20" height="20" valign="middle"/> Принятые в Upstream (Merged PRs)'$'\n\n'
 if [ -n "$merged_prs" ]; then
   table+="| PR | Репозиторий / Что сделано |"$'\n'"|---|---|"
   while IFS=$'\t' read -r number repo_url title html_url; do
