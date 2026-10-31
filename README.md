@@ -53,7 +53,6 @@
 | PR | Что чинит |
 |---|---|
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [TickTockBent/Sopholeth#279](https://github.com/TickTockBent/Sopholeth/pull/279) | fix(storage): page /v1/keys from ordered treap with indexed expiry min-heap (#220, #162) |
-| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [toml-rs/toml#1253](https://github.com/toml-rs/toml/pull/1253) | fix(error): correct span underline length for multi-byte UTF-8 characters |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [hatoo/oha#907](https://github.com/hatoo/oha/pull/907) | fix(client): handle closed report channel gracefully without panic (fixes #883) |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [anchore/syft#5254](https://github.com/anchore/syft/pull/5254) | fix(java): inherit pom licenses on the parent package when identities match |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
@@ -169,7 +168,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8&message=32&color=1e90ff&style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/static/v1?label=%D0%92%D0%BA%D0%BB%D0%B0%D0%B4%20%D0%B2%20Open%20Source&message=10%20PRs&color=brightgreen&style=for-the-badge&logo=git&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/static/v1?label=%D0%92%D0%BA%D0%BB%D0%B0%D0%B4%20%D0%B2%20Open%20Source&message=9%20PRs&color=brightgreen&style=for-the-badge&logo=git&logoColor=white" alt="PRs" />
   <img src="https://img.shields.io/badge/Upstream%20Merged-4%20PRs-orange?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged" />
   <img src="https://img.shields.io/static/v1?label=%D0%A1%D1%82%D0%B5%D0%BA&message=Rust%20%7C%20Go%20%7C%20Python%20%7C%20TS%20%7C%20Java&color=blueviolet&style=for-the-badge" alt="Stack" />
 </p>
