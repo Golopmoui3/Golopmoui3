@@ -52,6 +52,7 @@
 
 | PR | Что чинит |
 |---|---|
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [lukeed/sade#68](https://github.com/lukeed/sade/pull/68) | fix: do not map positional arguments past '--' |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [rosedblabs/rosedb#346](https://github.com/rosedblabs/rosedb/pull/346) | fix: trigger WAL fsync when batch or DB sync is enabled (fixes #344) |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [TickTockBent/Sopholeth#279](https://github.com/TickTockBent/Sopholeth/pull/279) | fix(storage): page /v1/keys from ordered treap with indexed expiry min-heap (#220, #162) |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [hatoo/oha#907](https://github.com/hatoo/oha/pull/907) | fix(client): handle closed report channel gracefully without panic (fixes #883) |
