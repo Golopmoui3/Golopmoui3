@@ -52,6 +52,7 @@
 
 | PR | Что чинит |
 |---|---|
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [linagora/cozy-stack#5137](https://github.com/linagora/cozy-stack/pull/5137) | fix(registry): advance cursor past masked duplicates to prevent infinite loop |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [gajus/liqe#53](https://github.com/gajus/liqe/pull/53) | fix: do not include highlights from non-matching branches |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [lukeed/sade#68](https://github.com/lukeed/sade/pull/68) | fix: do not map positional arguments past '--' |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [rosedblabs/rosedb#346](https://github.com/rosedblabs/rosedb/pull/346) | fix: trigger WAL fsync when batch or DB sync is enabled (fixes #344) |
@@ -180,7 +181,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8&message=32&color=1e90ff&style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/static/v1?label=%D0%92%D0%BA%D0%BB%D0%B0%D0%B4%20%D0%B2%20Open%20Source&message=12%20PRs&color=brightgreen&style=for-the-badge&logo=git&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/static/v1?label=%D0%92%D0%BA%D0%BB%D0%B0%D0%B4%20%D0%B2%20Open%20Source&message=13%20PRs&color=brightgreen&style=for-the-badge&logo=git&logoColor=white" alt="PRs" />
   <img src="https://img.shields.io/badge/Upstream%20Merged-4%20PRs-orange?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged" />
   <img src="https://img.shields.io/static/v1?label=%D0%A1%D1%82%D0%B5%D0%BA&message=Rust%20%7C%20Go%20%7C%20Python%20%7C%20TS%20%7C%20Java&color=blueviolet&style=for-the-badge" alt="Stack" />
 </p>
