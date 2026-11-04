@@ -53,7 +53,6 @@
 | PR | Что чинит |
 |---|---|
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [linagora/cozy-stack#5137](https://github.com/linagora/cozy-stack/pull/5137) | fix(registry): advance cursor past masked duplicates to prevent infinite loop |
-| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [gajus/liqe#53](https://github.com/gajus/liqe/pull/53) | fix: do not include highlights from non-matching branches |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [lukeed/sade#68](https://github.com/lukeed/sade/pull/68) | fix: do not map positional arguments past '--' |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [TickTockBent/Sopholeth#279](https://github.com/TickTockBent/Sopholeth/pull/279) | fix(storage): page /v1/keys from ordered treap with indexed expiry min-heap (#220, #162) |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [hatoo/oha#907](https://github.com/hatoo/oha/pull/907) | fix(client): handle closed report channel gracefully without panic (fixes #883) |
@@ -65,6 +64,7 @@
 
 | PR | Репозиторий / Что сделано |
 |---|---|
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="18" height="18" valign="middle"/> [gajus/liqe#53](https://github.com/gajus/liqe/pull/53) | fix: do not include highlights from non-matching branches |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="18" height="18" valign="middle"/> [rosedblabs/rosedb#346](https://github.com/rosedblabs/rosedb/pull/346) | fix: trigger WAL fsync when batch or DB sync is enabled (fixes #344) |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="18" height="18" valign="middle"/> [pymc-labs/pymc-marketing#2949](https://github.com/pymc-labs/pymc-marketing/pull/2949) | fix(clv): broadcast x in BetaGeoBetaBinom.logp so short values don't truncate the scan |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="18" height="18" valign="middle"/> [PatchMon/PatchMon#1092](https://github.com/PatchMon/PatchMon/pull/1092) | fix(packages): force LANG=C for locale-sensitive dnf/yum output parsing |
