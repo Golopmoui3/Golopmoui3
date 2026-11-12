@@ -52,11 +52,11 @@
 
 | PR | Что чинит |
 |---|---|
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [lukeed/sade#68](https://github.com/lukeed/sade/pull/68) | fix: do not map positional arguments past '--' |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [TickTockBent/Sopholeth#279](https://github.com/TickTockBent/Sopholeth/pull/279) | fix(storage): page /v1/keys from ordered treap with indexed expiry min-heap (#220, #162) |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [hatoo/oha#907](https://github.com/hatoo/oha/pull/907) | fix(client): handle closed report channel gracefully without panic (fixes #883) |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [anchore/syft#5254](https://github.com/anchore/syft/pull/5254) | fix(java): inherit pom licenses on the parent package when identities match |
-| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [anchore/syft#5255](https://github.com/anchore/syft/pull/5255) | fix(cyclonedx): preserve source name, version, and supplier on decode |
 
 ### <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="22" height="22" valign="middle"/> Принятые в Upstream (Merged PRs)
