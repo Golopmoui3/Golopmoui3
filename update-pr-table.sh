@@ -50,16 +50,27 @@ else
 fi
 
 # Собираем новый README: всё до START, новый блок, всё после END.
+table_file=$(mktemp)
+printf "%s\n" "$table" > "$table_file"
+
 tmp=$(mktemp)
-awk -v start='<!-- PR-TABLE:START -->' -v end='<!-- PR-TABLE:END -->' -v table="$table" '
+awk -v start='<!-- PR-TABLE:START -->' -v end='<!-- PR-TABLE:END -->' -v table_file="$table_file" '
   {
     line = $0
     sub(/\r$/, "", line)
   }
-  line == start { print start; print ""; print table; print ""; inblock=1; next }
+  line == start {
+    print start
+    print ""
+    while ((getline t < table_file) > 0) print t
+    print ""
+    inblock=1
+    next
+  }
   line == end   { inblock=0; print end; next }
   !inblock      { print $0 }
 ' "$README" > "$tmp"
 
+rm -f "$table_file"
 mv "$tmp" "$README"
 echo "PR table updated successfully."

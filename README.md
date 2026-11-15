@@ -11,6 +11,7 @@
   <a href="https://github.com/Golopmoui3/FeirRouter"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/brain.png" width="18" height="18" valign="middle" alt="brain"/> <b>FeirRouter (100+ LLM)</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/Golopmoui3/ThunderHack-Reborn"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/lightning.png" width="18" height="18" valign="middle" alt="lightning"/> <b>ThunderHack Reborn</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/Golopmoui3/YandexMusicBetaMod"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/music.png" width="18" height="18" valign="middle" alt="music"/> <b>Yandex Music Mod</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/Golopmoui3/1401"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle" alt="1401"/> <b>1401 (macOS)</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/Golopmoui3/neon-wasteland"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/joystick.png" width="18" height="18" valign="middle" alt="joystick"/> <b>NEON WASTELAND</b></a>
 </p>
 
@@ -52,6 +53,7 @@
 
 | PR | Что чинит |
 |---|---|
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [nullmoth/1401#179](https://github.com/nullmoth/1401/pull/179) | Fix Turing (TU106/TU104/TU116) WindowServer dragging micro-stutter & 256MB BAR1 budget drops |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [lukeed/sade#68](https://github.com/lukeed/sade/pull/68) | fix: do not map positional arguments past '--' |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [TickTockBent/Sopholeth#279](https://github.com/TickTockBent/Sopholeth/pull/279) | fix(storage): page /v1/keys from ordered treap with indexed expiry min-heap (#220, #162) |
@@ -162,6 +164,20 @@
       <p><b>Изолированный запуск тестов в одноразовом контейнере Docker</b>: проверка патчей и PR против upstream HEAD без риска для основной системы.</p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Golopmoui3/1401"><img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="22" height="22" valign="middle" alt="1401"/> 1401 — macOS on PC (NVIDIA Turing Fix)</a>
+      </h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/OpenCore-macOS%20Sequoia-000000?style=flat-square&logo=apple&logoColor=white" alt="OpenCore"/>
+        <img src="https://img.shields.io/badge/NVIDIA-Turing%20TU106%2FTU104-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"/>
+        <img src="https://img.shields.io/badge/PR-%23179-blueviolet?style=flat-square&logo=git&logoColor=white" alt="PR #179"/>
+      </p>
+      <p><b>Установка macOS на ПК с Windows</b>: форк 1401 с решением проблемы микрофризов WindowServer, дропов поверхностей и лимитов 256MB BAR1 на видеокартах NVIDIA Turing (RTX 2060S / 2070 / GTX 1660) под macOS Sequoia/Sonoma.</p>
+    </td>
+  </tr>
 </table>
 
 ### <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/gear.png" width="22" height="22" valign="middle" alt="gear"/> Изоляция & WSL утилиты
@@ -181,7 +197,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8&message=32&color=1e90ff&style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/static/v1?label=%D0%92%D0%BA%D0%BB%D0%B0%D0%B4%20%D0%B2%20Open%20Source&message=13%20PRs&color=brightgreen&style=for-the-badge&logo=git&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/static/v1?label=%D0%92%D0%BA%D0%BB%D0%B0%D0%B4%20%D0%B2%20Open%20Source&message=14%20PRs&color=brightgreen&style=for-the-badge&logo=git&logoColor=white" alt="PRs" />
   <img src="https://img.shields.io/badge/Upstream%20Merged-4%20PRs-orange?style=for-the-badge&logo=githubactions&logoColor=white" alt="Merged" />
   <img src="https://img.shields.io/static/v1?label=%D0%A1%D1%82%D0%B5%D0%BA&message=Rust%20%7C%20Go%20%7C%20Python%20%7C%20TS%20%7C%20Java&color=blueviolet&style=for-the-badge" alt="Stack" />
 </p>
