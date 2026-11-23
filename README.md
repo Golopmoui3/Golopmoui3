@@ -53,7 +53,6 @@
 
 | PR | Что чинит |
 |---|---|
-| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [TickTockBent/Sopholeth#279](https://github.com/TickTockBent/Sopholeth/pull/279) | fix(storage): page /v1/keys from ordered treap with indexed expiry min-heap (#220, #162) |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [nullmoth/1401#179](https://github.com/nullmoth/1401/pull/179) | Fix Turing (TU106/TU104/TU116) WindowServer dragging micro-stutter & 256MB BAR1 budget drops |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [maciejhirsz/logos#581](https://github.com/maciejhirsz/logos/pull/581) | fix(codegen): substitute subpatterns inside character classes without flag group |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/rocket.png" width="18" height="18" valign="middle"/> [lukeed/sade#68](https://github.com/lukeed/sade/pull/68) | fix: do not map positional arguments past '--' |
@@ -65,6 +64,7 @@
 
 | PR | Репозиторий / Что сделано |
 |---|---|
+| <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="18" height="18" valign="middle"/> [TickTockBent/Sopholeth#279](https://github.com/TickTockBent/Sopholeth/pull/279) | fix(storage): page /v1/keys from ordered treap with indexed expiry min-heap (#220, #162) |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="18" height="18" valign="middle"/> [linagora/cozy-stack#5137](https://github.com/linagora/cozy-stack/pull/5137) | fix(registry): advance cursor past masked duplicates to prevent infinite loop |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="18" height="18" valign="middle"/> [gajus/liqe#53](https://github.com/gajus/liqe/pull/53) | fix: do not include highlights from non-matching branches |
 | <img src="https://raw.githubusercontent.com/Golopmoui3/Golopmoui3/main/assets/icons/check.png" width="18" height="18" valign="middle"/> [rosedblabs/rosedb#346](https://github.com/rosedblabs/rosedb/pull/346) | fix: trigger WAL fsync when batch or DB sync is enabled (fixes #344) |
